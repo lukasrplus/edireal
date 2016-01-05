@@ -23,7 +23,7 @@
 			navMenu		+= '<div class="navbar-brand" style="padding-top: 20px; font-weight: 700">';
 			navMenu		+= '<a href="index.html">EDI-Real</a>';
 			navMenu		+= '</div>';
-			navMenu		+= '<ul class="nav navbar-nav">';
+			navMenu		+= '<ul class="nav navbar-nav" style="margin-top: 0px">';
 			navMenu		+= $('#navigation .nav.navbar-nav').html();
 			navMenu		+= '</ul>';
 			navMenu		+= '</div>';
