@@ -839,7 +839,7 @@ button.close:hover {
   background-repeat: no-repeat;
   background-color: black;
   max-width: 100%;
-  background-image: url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg3.jpeg);
+  background-image: url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg7.jpeg);
 
 }
 	#header .header-content h1, #header .header-content h2, #header .header-content h3, #header .header-content h4, #header .header-content h5, #header .header-content h6 { color:#FFF; }
@@ -1169,6 +1169,17 @@ button.close:hover {
 			border-radius:50%;
 		}
 		#footer .socials a:hover { background-color:#404040; }
+
+
+
+.btn-new-style {
+	background-color: rgba(0,0,0,0.0);
+	border: 2px solid black;
+	border-radius: 0px;
+	color: black !important;
+	padding: 15px;
+	width: 100%;
+}
 
 
 
