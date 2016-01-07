@@ -833,13 +833,13 @@ button.close:hover {
 #header .header-content {
 	color:#FFF;
 	padding:70px 0px 180px;
-/*	background-size: cover;*/
-/*  background-attachment: fixed;*/
+	background-size: cover;
+  background-attachment: fixed;
 /*  position: relative;*/
   background-repeat: repeat;
-/*  background-color: black;*/
-/*  max-width: 100%;*/
-  background-image: url(https://s3.eu-central-1.amazonaws.com/edireal/background/pattern2.png);
+  background-color: black;
+  max-width: 100%;
+  background-image: url(https://s3.eu-central-1.amazonaws.com/edireal/background/bg11.jpg);
 
 }
 	#header .header-content h1, #header .header-content h2, #header .header-content h3, #header .header-content h4, #header .header-content h5, #header .header-content h6 { color:#FFF; }
